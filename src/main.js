@@ -98,11 +98,11 @@ export class Interacdiv {
     };
 }
 
-export const create = options => {
+export const add = options => {
     const instance = new Interacdiv(options);
     instance.start();
 
     return instance;
 };
 
-export default create;
+export default add;

@@ -1,7 +1,7 @@
 {
   "name": "interacdiv",
   "description": "It makes div interactive",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "main": "./dist/interacdiv.min.js",
   "module": "./dist/interacdiv.es.js",
